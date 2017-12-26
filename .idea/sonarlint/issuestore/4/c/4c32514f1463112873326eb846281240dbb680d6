@@ -1,0 +1,60 @@
+
+`squid:S1192"FDefine a constant instead of duplicating this literal "swipe" 3 times.(Ùù›¥ýÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ž§è®
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ž§è®
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾Åšøÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä½³Óúÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Úø‡æ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àû†”
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿõ¨Â
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ùù›¥ýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê‹ÒÙþÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àû†”
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿõ¨Â
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àû†”
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÌê¼
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àû†”
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚÏçºüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Àû†”
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚÏçºüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(âðŽÞ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰¦
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(’Ö–
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇïýÆ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ¥îÐýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ¥îÐýÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+vsquid:S2273"bMove this call to "wait()" into a synchronized block to be sure the monitor on "UiDevice" is held.(þÞôD
+vsquid:S2273"bMove this call to "wait()" into a synchronized block to be sure the monitor on "UiDevice" is held.(þÞôD
+Nsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(þÞôD
+Nsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(þÞôD
+Zsquid:S2147"ECombine this catch with the one at line 146, which has the same body.(ä ¹€
+Zsquid:S2147"ECombine this catch with the one at line 171, which has the same body.(ä ¹€
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð¡ýÁþÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û­¨Õýÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÖÙÛÂÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

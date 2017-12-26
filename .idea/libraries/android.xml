@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../android-sdk-macosx/platforms/android-22/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../android-sdk-macosx/platforms/android-22/uiautomator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

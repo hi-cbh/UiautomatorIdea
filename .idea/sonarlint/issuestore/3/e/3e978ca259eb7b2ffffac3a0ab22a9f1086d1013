@@ -1,0 +1,11 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÐª›8—öÓ•‡,
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ý»¿úÿÿÿÿ
+[squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÍÑ¦îúÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Ûêøÿÿÿÿ8ÖºÌ•‡,
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ãçøø
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…ž¶¸
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼ð¨­
