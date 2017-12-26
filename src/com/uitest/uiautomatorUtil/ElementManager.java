@@ -13,7 +13,7 @@ import com.uitest.cmp.EditText;
  * 
  */
 
-public class Ele extends UiAutomatorTestCase{
+public class ElementManager extends UiAutomatorTestCase{
 	// 时间(ms)
 	public static long MAXRUNTIME = 60000;
 	public static long MIDRUNTIME = 45000;
@@ -386,7 +386,8 @@ public class Ele extends UiAutomatorTestCase{
 	/**
 	 * 获取根据父rootclas下，匹配id类型的控件数量
 	 * 
-	 * @param className
+	 * @param rootClass
+	 * @param id
 	 * @return
 	 */
 	public static int getChildCountByClassId(String rootClass, String id) {

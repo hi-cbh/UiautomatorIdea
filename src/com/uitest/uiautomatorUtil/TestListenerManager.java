@@ -38,19 +38,6 @@ public class TestListenerManager extends UiAutomatorTestCase{
 	protected static TestListener listen;//监听
 	private static int runtime_local = 0;
 	MyLogcatHelper  mylog  = null;
-		
-	
-	//使用这里出现多个文件写入一个目录
-//
-//	//静态初始化目录  当然目录名可以从命令传入，保证每次任务结果在同一个目录下面
-//	static{
-//		SimpleDateFormat formattime1 = new SimpleDateFormat(
-//				"yyyyMMdd_HHmmss");
-//		long ctime = System.currentTimeMillis();
-//		DIR_NAME = formattime1.format(new Date(ctime));
-//	}
-//	
-
 	
 
 	@Override
@@ -111,9 +98,10 @@ public class TestListenerManager extends UiAutomatorTestCase{
 		public listener(String filePath,TestResult result){
 			this.results=result;
 			ft=new File(filePath);
+			FileOutputStream fileOutputTrace = null;
 			try {
 
-		        FileOutputStream fileOutputTrace = new FileOutputStream(ft,true);
+		        fileOutputTrace = new FileOutputStream(ft,true);
 		        printTrace = new PrintStream(fileOutputTrace); 
 		 }catch(Exception e){
 			e.printStackTrace();
@@ -176,7 +164,8 @@ public class TestListenerManager extends UiAutomatorTestCase{
 		try {	
 			Runtime.getRuntime().exec(cmd);
 		} catch (IOException e) {
-			e.printStackTrace();
+//			e.printStackTrace();
+
 		}
 	}
 

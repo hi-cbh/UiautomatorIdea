@@ -18,12 +18,6 @@ import com.uitest.log.UiautomatorAssistant;
 
 
 public class DriverManager{
-	/*
-	 * 日志记录：
-	 * 版本                  日期                         修改者    更新内容
-	 * 1.0       2016-06-04   cbh  模块重新整理
-	 * 
-	 */
 
 	/**
 	 * 右滑
@@ -171,7 +165,6 @@ public class DriverManager{
 			} catch (UiObjectNotFoundException e) {
 				e.printStackTrace();
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 		}

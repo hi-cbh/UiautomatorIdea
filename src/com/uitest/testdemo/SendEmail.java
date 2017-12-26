@@ -6,8 +6,8 @@ import com.donot.change.By;
 import com.donot.change.UiAutomatorHelper;
 import com.uitest.data.UserConfig;
 import com.uitest.log.UiautomatorAssistant;
-import com.uitest.uiautomatorUtil.CommonUtil;
-import com.uitest.uiautomatorUtil.Ele;
+import com.uitest.uiautomatorUtil.ADBUtil;
+import com.uitest.uiautomatorUtil.ElementManager;
 import com.uitest.uiautomatorUtil.ImageManager;
 
 public class SendEmail extends UiAutomatorTestCase {
@@ -33,25 +33,25 @@ public class SendEmail extends UiAutomatorTestCase {
 	    	
 	    	for(int i = 0; i< 150; i++){
 
-	        	CommonUtil.adbStopApp("cn.cj.pe");
+	        	ADBUtil.adbStopApp("cn.cj.pe");
 	        	
-	        	CommonUtil.adbStartAPP(appPackage, appActivity);
+	        	ADBUtil.adbStartAPP(appPackage, appActivity);
 	        	
-	        	Ele.waitForExistst(By.NAME, "收件箱", 20);
+	        	ElementManager.waitForExistst(By.NAME, "收件箱", 20);
 	        	
-	        	Ele.waitForExistst(By.ID, "cn.cj.pe:id/actionbar_right_view").click();
+	        	ElementManager.waitForExistst(By.ID, "cn.cj.pe:id/actionbar_right_view").click();
 	        	
-	        	CommonUtil.sleep(15000);
+	        	ADBUtil.sleep(15000);
 	        	
-	        	Ele.waitForExistst(By.ID, "cn.cj.pe:id/to_layout", 10).setText("138000@139.com");
+	        	ElementManager.waitForExistst(By.ID, "cn.cj.pe:id/to_layout", 10).setText("138000@139.com");
 	        	
-	        	Ele.waitForExistst(By.ID, "cn.cj.pe:id/subject", 10).setText("test");
+	        	ElementManager.waitForExistst(By.ID, "cn.cj.pe:id/subject", 10).setText("test");
 	        	
-	        	CommonUtil.sleep(15000);
+	        	ADBUtil.sleep(15000);
 	        	
-				Ele.waitForExistst(By.NAME, "发送").click();
+				ElementManager.waitForExistst(By.NAME, "发送").click();
 				
-				UiObject uo  = Ele.waitForExistst(By.NAME, "已完成", 10);
+				UiObject uo  = ElementManager.waitForExistst(By.NAME, "已完成", 10);
 				
 				if(uo != null){
 					System.out.println("发送成功");
@@ -66,7 +66,7 @@ public class SendEmail extends UiAutomatorTestCase {
 					fail++;
 				}
 				
-				CommonUtil.sleep(15000);
+				ADBUtil.sleep(15000);
 	    	}
 	   
 		}

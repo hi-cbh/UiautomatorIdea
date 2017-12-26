@@ -5,9 +5,9 @@ import com.android.uiautomator.testrunner.UiAutomatorTestCase;
 import com.donot.change.By;
 import com.donot.change.UiAutomatorHelper;
 import com.uitest.data.UserConfig;
-import com.uitest.uiautomatorUtil.CommonUtil;
+import com.uitest.uiautomatorUtil.ADBUtil;
 import com.uitest.uiautomatorUtil.DriverManager;
-import com.uitest.uiautomatorUtil.Ele;
+import com.uitest.uiautomatorUtil.ElementManager;
 import com.uitest.uiautomatorUtil.TimeUtil;
 
 public class KillMail  extends UiAutomatorTestCase {
@@ -29,17 +29,17 @@ public class KillMail  extends UiAutomatorTestCase {
     	for(int i = 0; i < 2; i++){
         	DriverManager.pressHome();
         	
-        	CommonUtil.sleep(3000);
+        	ADBUtil.sleep(3000);
         	
 
-        	CommonUtil.adbStartAPP(appPackage, appActivity);
+        	ADBUtil.adbStartAPP(appPackage, appActivity);
         	
-//        	UiObject uo =  Ele.waitForExistst(By.NAME, "139邮箱");
+//        	UiObject uo =  ElementManager.waitForExistst(By.NAME, "139邮箱");
 //        	
 //        	time1 = TimeUtil.getCurrentSysTime();
 //        	uo.click();
         	
-        	Ele.waitForExistst(By.NAME, "收件箱", 30);
+        	ElementManager.waitForExistst(By.NAME, "收件箱", 30);
 //        	time2 = TimeUtil.getCurrentSysTime();
         	
         	DriverManager.pressHome();
@@ -49,11 +49,11 @@ public class KillMail  extends UiAutomatorTestCase {
 //        	System.out.println("杀进程启动时间: " + (valuetime/1000.0) );
 //        	UiautomatorAssistant.saveData("time: "+valuetime/1000.0);
         	
-        	CommonUtil.sleep(2000);
+        	ADBUtil.sleep(2000);
         	
-        	CommonUtil.adbStopApp("cn.cj.pe");
+        	ADBUtil.adbStopApp("cn.cj.pe");
         	
-        	CommonUtil.sleep(4*60*1000);
+        	ADBUtil.sleep(4*60*1000);
     	}
 
 

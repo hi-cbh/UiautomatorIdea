@@ -4,8 +4,8 @@ import com.android.uiautomator.testrunner.UiAutomatorTestCase;
 import com.donot.change.By;
 import com.donot.change.UiAutomatorHelper;
 import com.uitest.data.UserConfig;
-import com.uitest.uiautomatorUtil.CommonUtil;
-import com.uitest.uiautomatorUtil.Ele;
+import com.uitest.uiautomatorUtil.ADBUtil;
+import com.uitest.uiautomatorUtil.ElementManager;
 
 public class installApk2 extends UiAutomatorTestCase {
 	public static void main(String[] args) {
@@ -19,16 +19,16 @@ public class installApk2 extends UiAutomatorTestCase {
 	public void testEmail() throws Exception {
 
 		for (int i = 0; i < 1; i++) {
-			if (Ele.waitForExistst(By.ID, "vivo:id/vivo_adb_install_app_name", 20) != null) {
-				String str = Ele.waitForExistst(By.ID,
+			if (ElementManager.waitForExistst(By.ID, "vivo:id/vivo_adb_install_app_name", 20) != null) {
+				String str = ElementManager.waitForExistst(By.ID,
 						"vivo:id/vivo_adb_install_app_name", 10).getText();
 
 				if (str.contains("139邮箱")) {
-					Ele.waitForExistst(By.ID,
+					ElementManager.waitForExistst(By.ID,
 							"vivo:id/vivo_adb_install_ok_button", 5).click();
 				}
 			}
-			CommonUtil.sleep(2000);
+			ADBUtil.sleep(2000);
 		}
 
 	}

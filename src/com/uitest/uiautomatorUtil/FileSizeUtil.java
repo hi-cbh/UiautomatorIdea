@@ -30,7 +30,7 @@ public class FileSizeUtil {
 	    blockSize = getFileSize(file);
 	   }
 	  } catch (Exception e) {
-	   e.printStackTrace();
+//	   e.printStackTrace();
 	   Log.e("获取文件大小", "获取失败!");
 	  }
 	  return FormetFileSize(blockSize, sizeType);
@@ -52,7 +52,7 @@ public class FileSizeUtil {
 	    blockSize = getFileSize(file);
 	   }
 	  } catch (Exception e) {
-	   e.printStackTrace();
+//	   e.printStackTrace();
 	   Log.e("获取文件大小", "获取失败!");
 	  }
 	  return FormetFileSize(blockSize);

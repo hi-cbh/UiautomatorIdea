@@ -23,7 +23,6 @@ public class TimeUtil {
 	public static String getCurrentSysTime() {
 		SimpleDateFormat formattime = new SimpleDateFormat(
 				"yyyy-MM-dd HH:mm:ss:SSS");
-		//long ctime = System.currentTimeMillis();
 		long ctime = System.nanoTime()/1000000L;
 		String currenttime = formattime.format(new Date(ctime));
 		return currenttime;
@@ -34,8 +33,6 @@ public class TimeUtil {
 	 * @return
 	 */
 	public static String getCurrentSysTimeRunTime() {
-		//SimpleDateFormat formattime1 = new SimpleDateFormat(
-		//		"yyyy-MM-dd HH:mm:ss:SSS");
 		SimpleDateFormat formattime1 = new SimpleDateFormat(
 				"yyyy-MM-dd HH:mm:ss");
 		long ctime = System.currentTimeMillis();
@@ -79,7 +76,6 @@ public class TimeUtil {
 		SimpleDateFormat formattime = new SimpleDateFormat(
 				"yyyy-MM-dd HH:mm:ss:SSS");
 		long ctime = System.currentTimeMillis();
-		//long ctime = System.nanoTime()/1000000L;
 		String currenttime = formattime.format(new Date(ctime));
 		return currenttime;
 	}

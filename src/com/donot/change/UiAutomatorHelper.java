@@ -201,8 +201,8 @@ public class UiAutomatorHelper {
 		String abPath = directory.getAbsolutePath();
 //		System.out.println("user: "+System.getProperty("user.dir"));
 //		System.out.print("abPath"+ abPath);
-		URL xmlpath = this.getClass().getClassLoader().getResource("");
-		System.out.println("xml: "+xmlpath);
+//		URL xmlpath = this.getClass().getClassLoader().getResource("");
+//		System.out.println("xml: "+xmlpath);
 
 		return abPath;
 	}

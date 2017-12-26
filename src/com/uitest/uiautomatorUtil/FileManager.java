@@ -22,8 +22,8 @@ public class FileManager {
 	/**
    * 新增或追加内容到文件中
    * 
-   * @param fileName
-   * @param content
+   * @param FileName
+   * @param conent
    */
 	public static void saveToFile(String FileName, String conent) {
 		mkdir(ROOT_PATH);
@@ -73,21 +73,36 @@ public class FileManager {
 	 */
 	public static void saveFile(String line,File file){
 		BufferedWriter bw=null;
+		FileOutputStream fo = null;
+		OutputStreamWriter ow = null;
 		try {
-			FileOutputStream fo=new FileOutputStream(file,true);
-			OutputStreamWriter ow=new OutputStreamWriter(fo);
+			fo=new FileOutputStream(file,true);
+			ow=new OutputStreamWriter(fo);
 			bw=new BufferedWriter(ow);
             bw.append(line);
             bw.newLine();
             bw.flush();
-            bw.close();
-
 		} catch (FileNotFoundException e) {
-			e.printStackTrace();
+//			e.printStackTrace();
 		} catch (IOException e) {
-			e.printStackTrace();
+//			e.printStackTrace();
 		}
-		
+		finally {
+			try {
+				if(fo != null){
+					fo.close();
+				}
+				if(ow!=null){
+					ow.close();
+				}
+				if(bw != null){
+					bw.close();
+				}
+
+			} catch (IOException e) {
+//				e.printStackTrace();
+			}
+		}
 	}
 	
 	

@@ -6,9 +6,9 @@ import com.android.uiautomator.testrunner.UiAutomatorTestCase;
 import com.donot.change.By;
 import com.donot.change.UiAutomatorHelper;
 import com.uitest.data.UserConfig;
-import com.uitest.uiautomatorUtil.CommonUtil;
+import com.uitest.uiautomatorUtil.ADBUtil;
 import com.uitest.uiautomatorUtil.DriverManager;
-import com.uitest.uiautomatorUtil.Ele;
+import com.uitest.uiautomatorUtil.ElementManager;
 import com.uitest.uiautomatorUtil.TimeUtil;
 
 public class OpenMail  extends UiAutomatorTestCase {
@@ -17,9 +17,7 @@ public class OpenMail  extends UiAutomatorTestCase {
 		String testClass = "com.uitest.testdemo.OpenMail";
 		String testName = "";
 		String androidId = UserConfig.androidId;
-//		new UiAutomatorHelper(jarName, testClass, testName, androidId);
-		String workPath = "/Users/apple/autoTest/workspace/UiautomatorIdea";
-		new UiAutomatorHelper(jarName, testClass, testName, androidId,workPath,1);
+		new UiAutomatorHelper(jarName, testClass, testName, androidId);
 
 
 	}
@@ -35,17 +33,17 @@ public class OpenMail  extends UiAutomatorTestCase {
     		System.out.println("tests: " + i);
         	DriverManager.pressHome();
         	
-        	CommonUtil.sleep(3000);
+        	ADBUtil.sleep(3000);
 
-        	UiObject uo =  Ele.waitForExistst(By.NAME, "139邮箱");
+        	UiObject uo =  ElementManager.waitForExistst(By.NAME, "139邮箱");
         	
         	time1 = TimeUtil.getCurrentSysTime();
         	uo.click();
 
-			Ele.waitForExistst(By.ID,"cn.cj.pe:id/tv_launch_count",20);
+			ElementManager.waitForExistst(By.ID,"cn.cj.pe:id/tv_launch_count",20);
 			time3 = TimeUtil.getCurrentSysTime();
 
-        	Ele.waitForExistst(By.NAME, "收件箱", 30);
+        	ElementManager.waitForExistst(By.NAME, "收件箱", 30);
         	time2 = TimeUtil.getCurrentSysTime();
         	
         	DriverManager.pressHome();
@@ -57,11 +55,11 @@ public class OpenMail  extends UiAutomatorTestCase {
         	System.out.println("findtime:" + (valuetime2/1000.0) );
         	//UiautomatorAssistant.saveData("time: "+valuetime/1000.0);
         	
-        	CommonUtil.sleep(2000);
+        	ADBUtil.sleep(2000);
         	
-        	CommonUtil.adbStopApp("cn.cj.pe");
+        	ADBUtil.adbStopApp("cn.cj.pe");
         	
-        	CommonUtil.sleep(2000);
+        	ADBUtil.sleep(2000);
     	}
 
 
