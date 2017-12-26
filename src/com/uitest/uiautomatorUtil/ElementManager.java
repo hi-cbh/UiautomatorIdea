@@ -661,7 +661,7 @@ public class ElementManager extends UiAutomatorTestCase{
 					+ content);
 		} catch (UiObjectNotFoundException e) {
 
-			e.printStackTrace();
+//			e.printStackTrace();
 		}
 	}
 
