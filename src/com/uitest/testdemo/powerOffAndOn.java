@@ -25,7 +25,8 @@ public class powerOffAndOn extends UiAutomatorTestCase {
 
 		UiDevice.getInstance().wakeUp();
 
-		DriverManager.swipe(0,2300,1430,2300);
+//		DriverManager.swipe(0,2300,1430,2300);
+		DriverManager.swipe(0,1000,1430,1000);
 		ADBUtil.sleep(2000);
 
 	}

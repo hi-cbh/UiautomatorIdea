@@ -1,80 +1,0 @@
-
-N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
-N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
-N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
-N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
-N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
-csquid:S1192"NDefine a constant instead of duplicating this literal "can not find " 7 times.(†ú¶ƒ
-jsquid:S3008"URename this field "MAXRUNTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÀøÓ
-osquid:S3008"URename this field "MIDRUNTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÌ÷—þÿÿÿÿ
-osquid:S3008"URename this field "MINRUNTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸»Œ¦þÿÿÿÿ
-Esquid:S1444"0Make this "public static MAXRUNTIME" field final(ÇÀøÓ
-Jsquid:S1444"0Make this "public static MIDRUNTIME" field final(ëÌ÷—þÿÿÿÿ
-Jsquid:S1444"0Make this "public static MINRUNTIME" field final(¸»Œ¦þÿÿÿÿ
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø½ºÒüÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ø“²ü
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾„ð„
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾„ð„
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÁŸÀËùÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(§í¢ñ
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÁˆ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(åÏ¾ª
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(‰óü
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ü§õ¢ûÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÐÏßƒ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(••Î¯øÿÿÿÿ
-Vsquid:S1126"AReplace this if-then-else statement by a single return statement.(Ôúˆ„
-psquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "cnt".(Ž‹§ú
-usquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "cnt".(¿á±»þÿÿÿÿ
-psquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "cnt".(Ž‹§ú
-‚"squid:ClassVariableVisibilityCheck"VMake MAXRUNTIME a static final constant or non-public and provide accessors if needed.(ÇÀøÓ
-‡"squid:ClassVariableVisibilityCheck"VMake MIDRUNTIME a static final constant or non-public and provide accessors if needed.(ëÌ÷—þÿÿÿÿ
-‡"squid:ClassVariableVisibilityCheck"VMake MINRUNTIME a static final constant or non-public and provide accessors if needed.(¸»Œ¦þÿÿÿÿ
-`squid:S2259"K"NullPointerException" will be thrown when invoking method "getUiObject()".(ø„›‰
-rsquid:S2259"]A "NullPointerException" could be thrown; "getUiObjectScrollListViewByText" is nullable here.(òšåâ
-Usquid:S2259"@A "NullPointerException" could be thrown; "uo" is nullable here.(Ôúˆ„
-Usquid:S2259"@A "NullPointerException" could be thrown; "uo" is nullable here.(øæ·Õ
-Usquid:S2259"@A "NullPointerException" could be thrown; "uo" is nullable here.(Ü½€Ý
-usquid:S2259"aA "NullPointerException" could be thrown; "getUiObjectSearchByClassNameAndName" is nullable here.(¶‘œg
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÖÙÛÂÿÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

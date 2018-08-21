@@ -1,0 +1,80 @@
+
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
+Usquid:S2259"@A "NullPointerException" could be thrown; "uo" is nullable here.(Ôúˆ„
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(§í¢ñ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰óü
+Usquid:S2259"@A "NullPointerException" could be thrown; "uo" is nullable here.(øæ·Õ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø½ºÒüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8¥Š‰,
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
+psquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "cnt".(‹§ú
+usquid:S2259"aA "NullPointerException" could be thrown; "getUiObjectSearchByClassNameAndName" is nullable here.(¶‘œg
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+usquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "cnt".(¿á±»şÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
+Esquid:S1444"0Make this "public static MAXRUNTIME" field final(ÇÀøÓ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
+psquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "cnt".(‹§ú
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾„ğ„
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÁˆ
+`squid:S2259"K"NullPointerException" will be thrown when invoking method "getUiObject()".(ø„›‰
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(••Î¯øÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁŸÀËùÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÖÙÛÂÿÿÿÿÿ
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü§õ¢ûÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"VMake MAXRUNTIME a static final constant or non-public and provide accessors if needed.(ÇÀøÓ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÏßƒ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ú¶ƒ
+‡"squid:ClassVariableVisibilityCheck"VMake MIDRUNTIME a static final constant or non-public and provide accessors if needed.(ëÌ÷—şÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+rsquid:S2259"]A "NullPointerException" could be thrown; "getUiObjectScrollListViewByText" is nullable here.(òšåâ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
+Usquid:S2259"@A "NullPointerException" could be thrown; "uo" is nullable here.(Ü½€İ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÏ¾ª
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+csquid:S1192"NDefine a constant instead of duplicating this literal "can not find " 7 times.(†ú¶ƒ
+osquid:S3008"URename this field "MIDRUNTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÌ÷—şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾„ğ„
+Jsquid:S1444"0Make this "public static MIDRUNTIME" field final(ëÌ÷—şÿÿÿÿ
+Jsquid:S1444"0Make this "public static MINRUNTIME" field final(¸»Œ¦şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø“²ü
+‡"squid:ClassVariableVisibilityCheck"VMake MINRUNTIME a static final constant or non-public and provide accessors if needed.(¸»Œ¦şÿÿÿÿ
+jsquid:S3008"URename this field "MAXRUNTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÀøÓ
+Vsquid:S1126"AReplace this if-then-else statement by a single return statement.(Ôúˆ„
+osquid:S3008"URename this field "MINRUNTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸»Œ¦şÿÿÿÿ
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ù¿Èë
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º·ùÖ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

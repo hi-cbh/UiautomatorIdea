@@ -1,0 +1,18 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8âƒÚ‹‰,
+Ysquid:S2147"DCombine this catch with the one at line 85, which has the same body.(ï­£Ä
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ô”‡¤
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+asquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¬©º“
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8âƒÚ‹‰,
+esquid:S2095"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(þþâ×
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(²Á
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8½ÿÝ‹‰,
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Â£Ú‹‰,
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆñø´üÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éš‰ý
+Usquid:S2259"@A "NullPointerException" could be thrown; "bw" is nullable here.(÷¹ª
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÖÙÛÂÿÿÿÿÿ

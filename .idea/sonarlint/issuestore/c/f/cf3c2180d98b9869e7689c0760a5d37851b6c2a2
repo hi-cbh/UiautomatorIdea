@@ -1,0 +1,9 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅüÍ’
+bsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(§»õÃ8‹â¿®‰,
+gsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(©·úæþÿÿÿÿ8‹â¿®‰,
+]squid:S1192"IDefine a constant instead of duplicating this literal "cn.cj.pe" 4 times.(•Ãýi
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§Õ½øÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ùú¿â

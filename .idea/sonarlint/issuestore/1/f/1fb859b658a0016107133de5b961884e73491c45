@@ -1,0 +1,19 @@
+
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Â¡æ­þÿÿÿÿ
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Bsquid:S3010"(Remove this assignment of "PATH_LOGCAT".(ØŽÂÄùÿÿÿÿ
+psquid:S3008"VRename this field "PATH_LOGCAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û€ÐÃýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ûî¯êùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓËìýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€Íøâýÿÿÿÿ
+^squid:S2583"DChange this condition so that it does not always evaluate to "false"(·¾üœüÿÿÿÿ
+N"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ú‰îà
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³¶Ìg
+m
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(îÔëü
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“–ýþ

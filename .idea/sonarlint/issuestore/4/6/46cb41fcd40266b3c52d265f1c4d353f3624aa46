@@ -1,0 +1,27 @@
+
+@squid:S1075"&Remove this hard-coded path-delimiter.(åã÷‚úÿÿÿÿ
+hsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(«¤ò“øÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(†Ö°úÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ã¨ÂÈÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8¶Ûè‹‰,
+@squid:S1075"&Remove this hard-coded path-delimiter.(§†Øëûÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+isquid:S3008"TRename this field "DIR_NAME1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ê÷
+@squid:S1075"&Remove this hard-coded path-delimiter.(ªøžÏþÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(åã÷‚úÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÖÙÛÂÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(§†Øëûÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êÐ³ã
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Äò¥†
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(ªøžÏþÿÿÿÿ
+Vsquid:S1858"A"getName" returns a string, there's no need to call "toString()".(ƒ£å®
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(‚­Ì
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈŸÚó
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(ÏÉùÒ
+_squid:S2147"ECombine this catch with the one at line 142, which has the same body.(ÁÞäÿùÿÿÿÿ
+Ksquid:S2696"6Make the enclosing method "static" or remove this set.(¸Ø¯·
+msquid:S3008"XRename this field "runtime_local" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½ÿ«
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

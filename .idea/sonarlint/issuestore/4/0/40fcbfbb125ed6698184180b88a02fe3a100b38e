@@ -1,0 +1,17 @@
+
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†’†³ýÿÿÿÿ
+Xsquid:S2259"CA "NullPointerException" could be thrown; "fwlog" is nullable here.(Ôªû½
+Xsquid:S2259"CA "NullPointerException" could be thrown; "fwlog" is nullable here.(Ôªû½
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Bsquid:S1125"(Remove the literal "true" boolean value.(”¶œáýÿÿÿÿ
+isquid:S3008"ORename this field "FLAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õè†Óùÿÿÿÿ
+Bsquid:S1125"(Remove the literal "true" boolean value.(”¶œáýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥£˜˜
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†’†³ýÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

@@ -490,7 +490,31 @@ public class ElementManager extends UiAutomatorTestCase{
 			return null;
 		}
 	}
-	
+
+	/**
+	 * 等待元素出现
+	 * @param style By类型
+	 * @param text  元素类型
+	 * @param time  秒
+	 * param  num   第几个相同的元素
+	 * @return
+	 */
+	public static UiObject waitForExistst(int style, String text, int time, int num) {
+
+		UiObject uo = getUiObjectByinstance(style, text,num);
+		if(uo == null){
+			return null;
+		}
+		int outtime = time * 1000;
+		if (uo.waitForExists(outtime)) {
+			return uo;
+		} else {
+			System.out.println("can not find " + text + " !");
+			return null;
+		}
+	}
+
+
 	/**
 	 * 等待元素出现
 	 * @param style By类型

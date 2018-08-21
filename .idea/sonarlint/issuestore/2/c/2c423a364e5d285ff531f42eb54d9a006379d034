@@ -1,119 +1,118 @@
 
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-isquid:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(ïÈØœşÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(È€ñÔ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(é•å
-hsquid:S3008"SRename this field "jar_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á·ş«
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(µ÷üÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(µ÷üÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ö”ã¼
-Esquid:S1172"+Remove this unused method parameter "path".(ïÅşèüÿÿÿÿ
+Esquid:S3010"+Remove this assignment of "workspace_path".(™ àƒûÿÿÿÿ
+;squid:S3010"&Remove this assignment of "test_name".(õÀå
 =squid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-`squid:S1192"KDefine a constant instead of duplicating this literal "runlog.log" 3 times.(Œ¬¼
-nsquid:S3008"TRename this field "test_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º™İ˜úÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
-Esquid:S3010"+Remove this assignment of "workspace_path".(™ àƒûÿÿÿÿ
-;squid:S3010"&Remove this assignment of "test_name".(õÀå
-Asquid:S3010"'Remove this assignment of "android_id".(£‹ì‘şÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÓ×Åüÿÿÿÿ
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òéëàıÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÓ×Åüÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ıÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(’Îˆõ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(—ù»ß
-Asquid:S3010"'Remove this assignment of "test_class".(¥çæÿÿÿÿÿ
 ?squid:S3010"%Remove this assignment of "jar_name".(›åç“ÿÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(³‚¢¨
-jsquid:S2095"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(ƒß“ıùÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(®Ò˜ùÿÿÿÿ
 Asquid:S3010"'Remove this assignment of "test_class".(¥çæÿÿÿÿÿ
-Esquid:S3010"+Remove this assignment of "workspace_path".(™ àƒûÿÿÿÿ
-=squid:S1172"(Remove this unused method parameter "i".(óÀ§°
-;squid:S1075"&Remove this hard-coded path-delimiter.(œ®Õ
-jsquid:S3008"URename this field "android_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö½Åû
-Asquid:S3010"'Remove this assignment of "android_id".(£‹ì‘şÿÿÿÿ
-?squid:S3010"%Remove this assignment of "jar_name".(›åç“ÿÿÿÿÿ
-Œsquid:S1192"rDefine a constant instead of duplicating this literal "-----------start--uiautomator--debug-------------" 3 times.(ÿÓ×Åüÿÿÿÿ
-isquid:S1192"TDefine a constant instead of duplicating this literal "*******************" 6 times.(â÷ºß
-csquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Œ˜õ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–œïÜ
-@squid:S3010"+Remove this assignment of "workspace_path".(Åƒ¼¼
-ssquid:S3008"YRename this field "workspace_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¡­•ıÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÂŠşÿÿÿÿ
-ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ßüÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-asquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(çˆ‹”
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(äÖáŒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(®‚­
-bsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(»Áäá
 nsquid:S1192"TDefine a constant instead of duplicating this literal "---FINISH DEBUG----" 3 times.(®Ò˜ùÿÿÿÿ
-Esquid:S1481"+Remove this unused "length" local variable.(”Ú´ıÿÿÿÿ
+asquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(âûáş
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "abPath".(÷£İªùÿÿÿÿ8¶İ¤Œ‰,
 =squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(šÚÆĞ
-rsquid:S1192"XDefine a constant instead of duplicating this literal "----å·¥ä½œç©ºé—´ï¼š\t\n" 3 times.(µ÷üÿÿÿÿ
-asquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(”äÛÙ
-?squid:S3010"%Remove this assignment of "jar_name".(›åç“ÿÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(æí˜ó
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ò¤µæ
-_squid:S1192"JDefine a constant instead of duplicating this literal "build.xml" 3 times.(—½±…
-;squid:S3010"&Remove this assignment of "test_name".(õÀå
+csquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Œ˜õ
+bsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(»Áäá
+isquid:S1192"TDefine a constant instead of duplicating this literal "*******************" 6 times.(â÷ºß
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÓ×Åüÿÿÿÿ
-Asquid:S3010"'Remove this assignment of "test_class".(¥çæÿÿÿÿÿ
-Asquid:S3010"'Remove this assignment of "android_id".(£‹ì‘şÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Í¢÷
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(®Ò˜ùÿÿÿÿ
 M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ï÷³
+squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
 M
 squid:S106"9Replace this use of System.out or System.err by a logger.(©¥™¥
-asquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(âûáş
+isquid:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(ïÈØœşÿÿÿÿ
 M
 squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
-;squid:S3010"&Remove this assignment of "test_name".(õÀå
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(®Ò˜ùÿÿÿÿ
 M
 squid:S106"9Replace this use of System.out or System.err by a logger.(¡ñè„
 M
-squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
-osquid:S3008"URename this field "test_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¿ŒÙüÿÿÿÿ
-hsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(İ»‚’úÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(æí˜ó
+@squid:S3010"+Remove this assignment of "workspace_path".(Åƒ¼¼
+Œsquid:S1192"rDefine a constant instead of duplicating this literal "-----------start--uiautomator--debug-------------" 3 times.(ÿÓ×Åüÿÿÿÿ
 R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(®Ò˜ùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßüÿÿÿÿ
+hsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(İ»‚’úÿÿÿÿ
+Asquid:S3010"'Remove this assignment of "test_class".(¥çæÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¤µæ
+=squid:S1172"(Remove this unused method parameter "i".(óÀ§°
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
+`squid:S1192"KDefine a constant instead of duplicating this literal "runlog.log" 3 times.(Œ¬¼
+asquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(”äÛÙ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÓ×Åüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ÷üÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ysquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ì­ŠÜúÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òéëàıÿÿÿÿ
+?squid:S3010"%Remove this assignment of "jar_name".(›åç“ÿÿÿÿÿ
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(±ä’òıÿÿÿÿ
+;squid:S3010"&Remove this assignment of "test_name".(õÀå
+;squid:S1075"&Remove this hard-coded path-delimiter.(œ®Õ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ÷üÿÿÿÿ
+asquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(çˆ‹”
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÚÆĞ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(È€ñÔ
+Esquid:S1481"+Remove this unused "length" local variable.(”Ú´ıÿÿÿÿ
+Asquid:S3010"'Remove this assignment of "android_id".(£‹ì‘şÿÿÿÿ
+Asquid:S3010"'Remove this assignment of "android_id".(£‹ì‘şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
+nsquid:S3008"TRename this field "test_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º™İ˜úÿÿÿÿ
+rsquid:S1192"XDefine a constant instead of duplicating this literal "----å·¥ä½œç©ºé—´ï¼š\t\n" 3 times.(µ÷üÿÿÿÿ
+?squid:S3010"%Remove this assignment of "jar_name".(›åç“ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(’Îˆõ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(é•å
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö”ã¼
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÓ×Åüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
+_squid:S1192"JDefine a constant instead of duplicating this literal "build.xml" 3 times.(—½±…
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï÷³
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(®‚­
+hsquid:S3008"SRename this field "jar_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á·ş«
+jsquid:S2095"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(ƒß“ıùÿÿÿÿ
+;squid:S3010"&Remove this assignment of "test_name".(õÀå
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(â÷ºß
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í¢÷
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÂŠşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ
 Esquid:S3010"+Remove this assignment of "workspace_path".(™ àƒûÿÿÿÿ
+osquid:S3008"URename this field "test_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¿ŒÙüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(®Ò˜ùÿÿÿÿ
+Asquid:S3010"'Remove this assignment of "android_id".(£‹ì‘şÿÿÿÿ
+Esquid:S1172"+Remove this unused method parameter "path".(ïÅşèüÿÿÿÿ
+Esquid:S3010"+Remove this assignment of "workspace_path".(™ àƒûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÖáŒ
+Asquid:S3010"'Remove this assignment of "test_class".(¥çæÿÿÿÿÿ
 L
 squid:S106"9Replace this use of System.out or System.err by a logger.( ÄŸq
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–œïÜ
+jsquid:S3008"URename this field "android_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö½Åû
+ssquid:S3008"YRename this field "workspace_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¡­•ıÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ù»ß

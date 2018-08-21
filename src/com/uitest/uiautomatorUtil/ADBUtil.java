@@ -85,4 +85,38 @@ public class ADBUtil {
     }
 
 
+	/**
+	 * 创建空白文件，用于邮件发送，辅助第三方应用。
+	 */
+	public static void adbBroadcast() {
+		//String path = "";
+
+		//String path = "/mnt/sdcard/Android/data/com.cmcc.test/cache/t.txt";
+		ProcessBuilder pb1 = new ProcessBuilder("am", "broadcast", "-a", "cn.cj.pe.LogReceiver"
+		);
+		try {
+			// System.out.print("删除进程");
+			pb1.start();
+			ADBUtil.sleep(2000);
+			 System.out.println("OK!");
+		} catch (IOException e1) {
+			e1.printStackTrace();
+		}
+	}
+
+	public static void adbBroadcastMy() {
+		//String path = "";
+
+		ProcessBuilder pb1 = new ProcessBuilder("am", "broadcast", "-a", "myemailbroadcast"
+		);
+		try {
+			// System.out.print("删除进程");
+			pb1.start();
+			ADBUtil.sleep(2000);
+			 System.out.println("OK!");
+		} catch (IOException e1) {
+			e1.printStackTrace();
+		}
+	}
+
 }

@@ -1,15 +1,12 @@
 
 }squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "currenttime".(«ßÛ»ÿÿÿÿÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßÞ‡”
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…¨Ï§
+}squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "currenttime".(œÔÑ€úÿÿÿÿ
+rsquid:S1192"XDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss:SSS" 3 times.(¯À÷Íùÿÿÿÿ
 }squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "currenttime".(«ßÛ»ÿÿÿÿÿ
+”%squid:RedundantThrowsDeclarationCheck"eRemove the declaration of thrown exception 'android.net.ParseException' which is a runtime exception.(«™Ì×
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…¨Ï§
+}squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "currenttime".(œÔÑ€úÿÿÿÿ
 }squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "currenttime".(«ßÛ»ÿÿÿÿÿ
 Osquid:S1118":Add a private constructor to hide the implicit public one.(íÍ´¤
-ssquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "d".(¨Í—ýÿÿÿÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò÷ÃÈ
 rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÖÙÛÂÿÿÿÿÿ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…¨Ï§
-”%squid:RedundantThrowsDeclarationCheck"eRemove the declaration of thrown exception 'android.net.ParseException' which is a runtime exception.(«™Ì×
-rsquid:S1192"XDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss:SSS" 3 times.(¯À÷Íùÿÿÿÿ
-}squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "currenttime".(œÔÑ€úÿÿÿÿ
-}squid:S1488"cImmediately return this expression instead of assigning it to the temporary variable "currenttime".(œÔÑ€úÿÿÿÿ
+ssquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "d".(¨Í—ýÿÿÿÿ

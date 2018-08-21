@@ -66,7 +66,7 @@ public class DriverManager{
 		int width = UiDevice.getInstance().getDisplayWidth();
 		int height = UiDevice.getInstance().getDisplayHeight();
 		UiDevice.getInstance().swipe(width / 2, height / 5, width / 2, height * 4 / 5, 60);
-		UiautomatorAssistant.UiAutomationLog("swipeToDown");
+//		UiautomatorAssistant.UiAutomationLog("swipeToDown");
 		System.out.println("[ doing ] swipeToDown ");
 	}
 

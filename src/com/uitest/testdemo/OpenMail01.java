@@ -29,8 +29,8 @@ public class OpenMail01 extends UiAutomatorTestCase {
 		String appPackage = "cn.cj.pe"; // 程序的package
 		String appActivity = "com.mail139.about.LaunchActivity"; // 程序的Activity
 
-//		 long times = System.currentTimeMillis() + 3 * 24 * 60 * 60 * 1000; //
-		 long times = System.currentTimeMillis() + 60 * 1000; //
+		 long times = System.currentTimeMillis() + 1 * 24 * 60 * 60 * 1000; //
+//		 long times = System.currentTimeMillis() + 60 * 1000; //
 
 			// 超时时间
 			while (System.currentTimeMillis() < times) {
@@ -65,7 +65,7 @@ public class OpenMail01 extends UiAutomatorTestCase {
 
 				ADBUtil.adbHome();
 
-				ADBUtil.sleep( 3 * 1000);
+				ADBUtil.sleep( 10 * 1000);
 			}
 	}
 }
